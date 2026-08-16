@@ -28,5 +28,5 @@ Python tool that extracts structured data and tables from Word documents and exp
  - pip install -r requirements.txt
 ## Usage
  - Put your .docx files into the OfficeFiles folder and run:
- - python word_to_excel.py
+ - python word_to_excel.py OR .exe-File(this doesn't require installation)
  - The converted Excel file will be saved in the output folder.
